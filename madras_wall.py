@@ -12,4 +12,4 @@ while True:
         trying = False
         break
     steps += gain
-print(arrear)  
+print("Total Attempts took by the hiker to climb 88 steps were ",arrear)  
